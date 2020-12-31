@@ -87,7 +87,7 @@ void setup() {
 
   connect_to_broker();
   Serial.print("In ascolto sul topic "); Serial.print(TOPIC); Serial.println("...");
-  mqtt_client.publish(TOPIC, "Esp Motor Controller e' entrato nel topic.");
+  mqtt_client.publish(TOPIC, String(CLIENT_ID) + " e' entrato nel topic.");
 
 }
 
