@@ -49,7 +49,9 @@ void stopRotation() {
 
 //Funzione di callback che esegue una determinata funzione di movimento a seconda del messaggio ricevuto
 void messageReceived(String &topicChoised, String &payload) {
-  Serial.print("Messaggio ricevuto: "); Serial.println(payload);
+  if(payload == "!start" || payload == "!stop") {
+    Serial.print("Messaggio ricevuto: "); Serial.println(payload);
+  }
   if(payload == "!start") {
     Serial.println("Rotazione in corso..."); 
     startRotation();
