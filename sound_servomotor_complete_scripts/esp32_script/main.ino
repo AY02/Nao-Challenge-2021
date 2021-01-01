@@ -8,7 +8,7 @@ const int INPUT_PIN1 = 16;    //D0
 const int INPUT_PIN2 = 5;     //D1
 const int INPUT_PIN3 = 4;     //D2
 
-const int SAMPLE_TIME = 5;    //Ogni 5 millisecondi effettua la misurazione
+const int SAMPLE_TIME = 20;   //Ogni 20 millisecondi effettua la misurazione
 
 unsigned long msCurrent1;     //Tempo corrente in millisecondi
 unsigned long msLast1 = 0;    //Tempo dell'ultima misurazione effettuata in millisecondi
@@ -33,10 +33,10 @@ boolean valueInput3 = false;
 
 Servo myServo;
 const int START_VALUE = 0;    //0 significa "full-speed in one direction"
-const int STOP_VALUE = 90;    // 90 significa "no movement"
+const int STOP_VALUE = 90;    //90 significa "no movement"
 
 //Definizione dei pin digitali dell'esp al servo motore
-const int SERVO_PIN = 16;     //D0
+const int SERVO_PIN = 0;      //D3
 
 //Funzioni di movimento, intuitive dal nome della funzione
 void startRotation() {
@@ -67,7 +67,7 @@ const char SSID_WIFI[] = "";
 const char PASSWORD_WIFI[] = "";
 
 //Credenziali per il protocollo MQTT
-const char BROKER[] = "";
+const char BROKER[] = "test.mosquitto.org";
 const int PORT = 1883;
 const char CLIENT_ID[] = "";
 const char TOPIC[] = "";
@@ -78,7 +78,7 @@ MQTTClient mqtt_client;
 //************************************************************************************************************
 
 void connect_to_broker() {
-  Serial.print("Connessione al broker "); Serial.print(BROKER); Serial.print(" con ID client: "); Serial.print(CLIENT_ID);
+  Serial.print("Connessione al broker "); Serial.print(BROKER); Serial.print(" con ID client: "); Serial.println(CLIENT_ID);
   while(!mqtt_client.connect(CLIENT_ID)) {
     Serial.print(".");
     delay(500);
