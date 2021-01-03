@@ -1,1 +1,2 @@
 mqtt_client: ^8.1.0
+oscilloscope: ^0.0.3
