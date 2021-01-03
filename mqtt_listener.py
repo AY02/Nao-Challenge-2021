@@ -1,4 +1,5 @@
 import paho.mqtt.client as mqtt
+#pip install paho-mqtt
 
 clientID = 'MQTT Listener'
 broker = 'test.mosquitto.org'
