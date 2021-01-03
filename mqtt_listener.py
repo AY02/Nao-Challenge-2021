@@ -8,6 +8,7 @@ topics = [
     f'{root}/czn15e/Sensor2',
     f'{root}/czn15e/Sensor3',
     f'{root}/ServoMotor',
+    #...
 ]
 port = 1883
 
@@ -16,9 +17,6 @@ def on_connect(client, userdata, flags, rc):
     for topic in topics:
         client.publish(topic, f'{clientID} e\' entrato nel topic', qos=1)
 
-def on_log(client, userdata, level, buf):
-    print(f'log: {buf}')
-
 def on_message(client, userdata, msg):
     print(f'Messaggio dal topic {msg.topic}: {msg.payload.decode()}')
 
@@ -26,7 +24,6 @@ cli = mqtt.Client(client_id=clientID)
 
 cli.on_connect = on_connect
 cli.on_message = on_message
-cli.on_log = on_log
 
 print('Connessione al broker...')
 cli.connect(host=broker, port=port)
