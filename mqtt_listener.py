@@ -1,8 +1,9 @@
 import paho.mqtt.client as mqtt
 #pip install paho-mqtt
 
-clientID = 'MQTT Listener'
 broker = 'test.mosquitto.org'
+port = 1883
+clientID = 'MQTT Listener'
 root = ''
 topics = [
     f'{root}/czn15e/Sensor1',
@@ -11,7 +12,6 @@ topics = [
     f'{root}/ServoMotor',
     #...
 ]
-port = 1883
 
 def on_connect(client, userdata, flags, rc):
     print(f'Connesso con il codice: {rc}')
