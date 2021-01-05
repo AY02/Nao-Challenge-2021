@@ -4,13 +4,13 @@ Widget czn15ePage() {
   return Column(
     children: [
       Card(
-        child: Text("Hi"),
+        child: Text(""),
       ),
       Card(
-        child: Text("Hi"),
+        child: Text(""),
       ),
       Card(
-        child: Text("Hi"),
+        child: Text(""),
       ),
     ],
   );
