@@ -7,7 +7,7 @@ Widget mqttPage(BuildContext context) {
   String _broker = 'test.mosquitto.org';
   String _port = '1883';
   String _clientID = 'QQNao App';
-  String _root = 'Nao Challenge 2021';
+  String _root = '';
   List<String> _topics = [
     '$_root/czn15e/Sensor1',
     '$_root/czn15e/Sensor2',
