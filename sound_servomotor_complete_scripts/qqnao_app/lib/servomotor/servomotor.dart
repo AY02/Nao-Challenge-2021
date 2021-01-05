@@ -16,7 +16,7 @@ Widget servomotorPage() {
           padding: EdgeInsets.all(15.0),
           onPressed: () {
             if(mqttConnected)
-              publish('!start', 'Nao Challenge 2021/ServoMotor');
+              publish('!start', 'root/ServoMotor');
           },
         ),
         SizedBox(height: 50.0),
@@ -30,7 +30,7 @@ Widget servomotorPage() {
           padding: EdgeInsets.all(15.0),
           onPressed: () {
             if(mqttConnected)
-              publish('!stop', 'Nao Challenge 2021/ServoMotor');
+              publish('!stop', 'root/ServoMotor');
           },
         ),
       ],
