@@ -26,3 +26,4 @@ void subscribe(MqttServerClient _client, String _topic) => _client.subscribe(_to
 
 MqttServerClient mqttClient;
 bool mqttConnected = false;
+String root = '';
