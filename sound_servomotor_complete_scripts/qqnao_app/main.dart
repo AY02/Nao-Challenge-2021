@@ -53,7 +53,7 @@ class _HomepageState extends State<Homepage> {
     _broker = 'test.mosquitto.org';
     _port = '1883';
     _clientID = 'QQNao App';
-    _root = 'Nao Challenge 2021';
+    _root = '';
     _topics = [
         '$_root/czn15e/Sensor1',
         '$_root/czn15e/Sensor2',
