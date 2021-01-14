@@ -79,6 +79,7 @@ void connect_to_broker() {
     Serial.print(".");
   }
   Serial.println("\nConnessione effettuata");
+  doSound();
 }
 
 void connect_to_topics() {
@@ -95,12 +96,13 @@ void messageReceived(String &topicChoised, String &payload) {
     if(payload == "!start") {
       Serial.println("Rotazione in corso..."); 
       startRotation();
+      doSound();
     }
     if(payload == "!stop") {
       Serial.println("Fermo movimento...");
       stopRotation();
+      doSound();
     }
-    doSound();
   }
 }
 
@@ -147,7 +149,8 @@ void loop() {
     valueInput[i] = digitalRead(INPUT_PIN[i]);
     bufferValue[i] = (valueInput[i] == LOW) ? bufferValue[i] + 1 : bufferValue[i];
     if(msElapsed[i] > SAMPLE_TIME) {
-      mqtt_client.publish(TOPICS[i], "Sound Value: " + String(bufferValue[i]));
+      if(bufferValue[i] > 0)
+        mqtt_client.publish(TOPICS[i], "Sound Value: " + String(bufferValue[i]));
       bufferValue[i] = 0;
       msLast[i] = msCurrent[i];
     }
