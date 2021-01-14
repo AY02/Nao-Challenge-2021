@@ -23,6 +23,16 @@ void connect_to_wifi() {
   Serial.print("Indirizzo IP: "); Serial.println(WiFi.localIP());
 }
 
+//BUZZER CONFIGURATION****************************************************************************************
+
+const int BUZZER_PIN = 14;    //D5
+
+void doSound() {
+  tone(BUZZER_PIN, 1000);     //Invia 1KHz segnale di suono...
+  delay(1000);                //...per 1 secondo
+  noTone(BUZZER_PIN);         //Fermo il suono...
+}
+
 //SERVOMOTOR CONFIGURATION************************************************************************************
 
 Servo myServo;
@@ -81,8 +91,7 @@ void connect_to_topics() {
 }
 
 void messageReceived(String &topicChoised, String &payload) {
-  if(topicChoised == ROOT+"/ServoMotor" && (payload == "!start" || payload == "!stop")) {
-    Serial.print("Messaggio ricevuto: "); Serial.println(payload);
+  if(topicChoised == ROOT+"/ServoMotor") {
     if(payload == "!start") {
       Serial.println("Rotazione in corso..."); 
       startRotation();
@@ -91,6 +100,7 @@ void messageReceived(String &topicChoised, String &payload) {
       Serial.println("Fermo movimento...");
       stopRotation();
     }
+    doSound();
   }
 }
 
@@ -116,6 +126,7 @@ void setup() {
   for(int i=0;i<N_CZN15E; i++)
     pinMode(INPUT_PIN[i], INPUT);
   myServo.attach(SERVO_PIN);
+  pinMode(BUZZER_PIN, OUTPUT);
   Serial.begin(9600);
   delay(1000);
   connect_to_wifi();
