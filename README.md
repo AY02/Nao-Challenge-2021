@@ -1,13 +1,12 @@
 # Nao-Challenge-2021
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+<br />
 
-<br/>
 <p align="center">
   <a href="https://www.naochallenge.it/en/home-english">
     <img src="images/logo-nao-challenge-2021.jpg" alt="Logo" width="300" height="100">
@@ -15,14 +14,12 @@
   <a href="http://www.veronatrento.it">
     <img src="images/logo-veronatrento.jpeg" alt="Logo" width="100" height="100">
   </a>
-
   <h3 align="center">PROGETTO NAO CHALLENGE 2021</h3>
-
   <p align="center">
-    <br/>
+    <br />
     <a href="https://github.com/AY02/Nao-Challenge-2021"><strong>Export documentation »</strong></a>
-    <br/>
-    <br/>
+    <br />
+    <br />
     <a href="https://github.com/AY02/Nao-Challenge-2021">View Demo</a>
     ·
     <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Report Bug</a>
@@ -94,9 +91,12 @@ Frameworks e piattaforme utilizzate:
 
 
 ## Getting Started
+**(QUESTO CIRCUITO E' ANCORA UN PROTOTIPO)**<br />
+Innanzitutto bisogna montare i componenti elencati precedentemente su un circuito. Progettazioni in [Fritzing](https://fritzing.org):<br />
+<img src="images/prototipo-montaggio.jpg" width="33%" height="300"></img>
+<img src="images/prototipo-circuito.jpg" width="33%" height="300"></img>
+<img src="images/prototipo-pcb.jpg" width="33%" height="300"></img>
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
