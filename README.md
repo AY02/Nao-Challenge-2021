@@ -6,7 +6,6 @@
 [![MIT License](https://img.shields.io/github/license/AY02/Nao-Challenge-2021.svg?style=for-the-badge)](https://github.com/AY02/Nao-Challenge-2021/blob/main/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://linkedin.com/in/alessio-yang-814b59201)
 
-
 <p align="center">
   <a href="https://www.naochallenge.it/en/home-english">
     <img src="images/logo-nao-challenge-2021.jpg" alt="Logo" width="300" height="100">
@@ -14,18 +13,17 @@
   <a href="http://www.veronatrento.it">
     <img src="images/logo-veronatrento.jpeg" alt="Logo" width="100" height="100">
   </a>
-  <h3 align="center">PROGETTO NAO CHALLENGE 2021</h3>
-  <p align="center">
-    <br />
-    <a href="https://github.com/AY02/Nao-Challenge-2021"><strong>Export documentation »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/AY02/Nao-Challenge-2021">View Demo</a>
-    ·
-    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Report Issues</a>
-  </p>
+</p>
+<h3 align="center">PROGETTO NAO CHALLENGE 2021</h3>
+
+<p align="center">
+  <a href="https://github.com/AY02/Nao-Challenge-2021"><strong>Export documentation »</strong></a>
+  <br />
+  <a href="https://github.com/AY02/Nao-Challenge-2021">View Demo</a>
+  ·
+  <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Report Issues</a>
 </p>
 
 <details open="open">
@@ -53,17 +51,13 @@
   </ol>
 </details>
 
-
-
-
 ## About The Project
-
 <img src="images/naochallenge-1.jpg" width="30%"></img>
 <img src="images/naochallenge-2.jpg" width="30%"></img>
 <img src="images/naochallenge-3.jpg" width="30%"></img>
 
 La Nao Challenge è un contest didattico dedicato agli studenti delle scuole secondarie di secondo grado con l’obiettivo di aumentare la conoscenza dei giovani nell’impiego della robotica umanoide attraverso lo sviluppo di software e applicazioni per divulgare le potenzialità sociali della robotica.
-
+<br />
 Fasi di Nao:
 * Fase I: Preselezione e brand identity della squadra
 * Fase II: Semifinali
