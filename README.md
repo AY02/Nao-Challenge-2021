@@ -10,33 +10,29 @@
 <br />
 <p align="center">
   <a href="https://github.com/AY02/Nao-Challenge-2021">
-    <img src="https://www.naochallenge.it/wp-content/uploads/2020/07/logopiccolo.png" alt="Logo" width="250" height="100">
+    <img src="https://www.naochallenge.it/wp-content/uploads/2020/07/logopiccolo.png" alt="Logo" width="300" height="100">
   </a>
 
   <h3 align="center">PROGETTO NAO CHALLENGE 2021</h3>
 
   <p align="center">
-    README
     <br />
-    <a href="https://github.com/AY02/Nao-Challenge-2021"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AY02/Nao-Challenge-2021"><strong>Esplora la documentazione »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AY02/Nao-Challenge-2021">View Demo</a>
+    <a href="https://github.com/AY02/Nao-Challenge-2021">Vedi Demo</a>
     ·
-    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Report Bug</a>
+    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Reporta Bug</a>
     ·
-    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Request Feature</a>
+    <a href="https://github.com/AY02/Nao-Challenge-2021/issues"Chiedi dubbi</a>
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Info sul progetto</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
