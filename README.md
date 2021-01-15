@@ -32,7 +32,7 @@
 </p>
 
 <details open="open">
-  <summary>Indice</summary>
+  <summary>Index Table</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -58,7 +58,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
