@@ -93,10 +93,9 @@ Frameworks e piattaforme utilizzate:
 ## Getting Started
 **(QUESTO CIRCUITO E' ANCORA UN PROTOTIPO)**<br />
 Innanzitutto bisogna montare i componenti elencati precedentemente su un circuito. Progettazioni in [Fritzing](https://fritzing.org):<br />
-<img src="images/prototipo-montaggio.jpg" width="30%"></img>
-<img src="images/prototipo-circuito.jpg" width="30%"></img>
-<img src="images/prototipo-pcb.jpg" width="30%"></img>
-
+Montaggio                            |Circuito                  |Schema PCB
+:---------------------------:|:--------------------------------:|:-------------------------------:
+![](images/prototipo-pcb.jpg)|![](images/prototipo-circuito.jpg)|![](images/prototipo-pcb.jpg)
 
 ### Prerequisites
 
