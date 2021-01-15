@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 ## Contact
-Alessio Yang - [Linkedin](https://linkedin.com/in/alessio-yang-814b59201) - [Send Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ynglss02p17d403g@veronatrento.it&tf=1
+Alessio Yang - [Linkedin](https://linkedin.com/in/alessio-yang-814b59201) - [Send Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ynglss02p17d403g@veronatrento.it&tf=1)
 
 Project Link: [Github URL](https://github.com/AY02/Nao-Challenge-2021)
 
