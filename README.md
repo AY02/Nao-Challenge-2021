@@ -32,7 +32,7 @@
   <summary>Indice</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Info sul progetto</a>
+      <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
