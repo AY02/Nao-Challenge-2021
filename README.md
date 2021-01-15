@@ -10,8 +10,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/AY02/Nao-Challenge-2021">
-    <img src="images/logo-nao-challenge-2021" alt="Logo" width="300" height="100">
-    <img src="images/logo-veronatrento" alt="Logo" width="300" height="100">
+    <img src="images/logo-nao-challenge-2021.jpg" alt="Logo" width="300" height="100">
+    <img src="images/logo-veronatrento.jpeg" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">PROGETTO NAO CHALLENGE 2021</h3>
