@@ -61,7 +61,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/naochallenge-1.png" width="30%"></img>
+<img src="images/naochallenge-2.png" width="30%"></img>
+<img src="images/naochallenge-3.png" width="30%"></img>
 
 La Nao Challenge è un contest didattico dedicato agli studenti delle scuole secondarie di secondo grado con l’obiettivo di aumentare la conoscenza dei giovani nell’impiego della robotica umanoide attraverso lo sviluppo di software e applicazioni per divulgare le potenzialità sociali della robotica.
 
