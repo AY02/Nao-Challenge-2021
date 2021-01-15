@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AY02/Nao-Challenge-2021">
-    <img src="https://www.naochallenge.it/wp-content/uploads/2020/07/logopiccolo.png" alt="Logo" width="200" height="80">
+    <img src="https://www.naochallenge.it/wp-content/uploads/2020/07/logopiccolo.png" alt="Logo" width="250" height="100">
   </a>
 
   <h3 align="center">PROGETTO NAO CHALLENGE 2021</h3>
