@@ -24,12 +24,12 @@
     ·
     <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Reporta Bug</a>
     ·
-    <a href="https://github.com/AY02/Nao-Challenge-2021/issues"Chiedi dubbi</a>
+    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Chiedi dubbi</a>
   </p>
 </p>
 
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Indice</summary>
   <ol>
     <li>
       <a href="#about-the-project">Info sul progetto</a>
