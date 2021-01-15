@@ -10,8 +10,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[[MIT License][license-shield][https://github.com/AY02/Nao-Challenge-2021/blob/main/LICENSE]]
-[[LinkedIn][linkedin-shield][https://linkedin.com/in/alessio-yang-814b59201]]
+[![MIT License][license-shield]](https://github.com/AY02/Nao-Challenge-2021/blob/main/LICENSE)
+[![LinkedIn][linkedin-shield]](https://linkedin.com/in/alessio-yang-814b59201)
 
 
 
