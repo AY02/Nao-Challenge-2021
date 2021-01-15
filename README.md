@@ -92,7 +92,7 @@ Frameworks e piattaforme utilizzate:
 
 
 
-<!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -124,7 +124,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -133,14 +133,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
+
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
 
-<!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -153,23 +153,23 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
+
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Alessio Yang - [Linkedin](https://linkedin.com/in/alessio-yang-814b59201) - ynglss02p17d403g@veronatrento.it
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Github](https://github.com/AY02/Nao-Challenge-2021)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -187,8 +187,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/AY02/Nao-Challenge-2021.svg?style=for-the-badge
 [contributors-url]: https://github.com/AY02/Nao-Challenge-2021/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AY02/Nao-Challenge-2021.svg?style=for-the-badge
