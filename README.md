@@ -9,8 +9,10 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/AY02/Nao-Challenge-2021">
+  <a href="https://www.naochallenge.it/en/home-english">
     <img src="images/logo-nao-challenge-2021.jpg" alt="Logo" width="300" height="100">
+  </a>
+  <a href="http://www.veronatrento.it">
     <img src="images/logo-veronatrento.jpeg" alt="Logo" width="100" height="100">
   </a>
 
