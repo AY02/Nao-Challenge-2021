@@ -1,11 +1,11 @@
 # Nao-Challenge-2021
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<br />
+[![Contributors](https://img.shields.io/github/contributors/AY02/Nao-Challenge-2021.svg?style=for-the-badge)](https://github.com/AY02/Nao-Challenge-2021/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/AY02/Nao-Challenge-2021.svg?style=for-the-badge)](https://github.com/AY02/Nao-Challenge-2021/network/members)
+[![Stargazers](https://img.shields.io/github/stars/AY02/Nao-Challenge-2021.svg?style=for-the-badge)](https://github.com/AY02/Nao-Challenge-2021/stargazers)
+[![Issues](https://img.shields.io/github/issues/AY02/Nao-Challenge-2021.svg?style=for-the-badge)](https://github.com/AY02/Nao-Challenge-2021/issues)
+[![MIT License](https://img.shields.io/github/license/AY02/Nao-Challenge-2021.svg?style=for-the-badge)](https://github.com/AY02/Nao-Challenge-2021/blob/main/LICENSE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://linkedin.com/in/alessio-yang-814b59201)
+
 
 <p align="center">
   <a href="https://www.naochallenge.it/en/home-english">
@@ -181,22 +181,3 @@ Project Link: [Github](https://github.com/AY02/Nao-Challenge-2021)
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
-
-
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/AY02/Nao-Challenge-2021.svg?style=for-the-badge
-[contributors-url]: https://github.com/AY02/Nao-Challenge-2021/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AY02/Nao-Challenge-2021.svg?style=for-the-badge
-[forks-url]: https://github.com/AY02/Nao-Challenge-2021/network/members
-[stars-shield]: https://img.shields.io/github/stars/AY02/Nao-Challenge-2021.svg?style=for-the-badge
-[stars-url]: https://github.com/AY02/Nao-Challenge-2021/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AY02/Nao-Challenge-2021.svg?style=for-the-badge
-[issues-url]: https://github.com/AY02/Nao-Challenge-2021/issues
-[license-shield]: https://img.shields.io/github/license/AY02/Nao-Challenge-2021.svg?style=for-the-badge
-[license-url]: https://github.com/AY02/Nao-Challenge-2021/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/alessio-yang-814b59201
-[product-screenshot]: images/screenshot.png
