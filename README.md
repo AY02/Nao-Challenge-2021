@@ -79,10 +79,16 @@ Fasi di Nao:
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+Componenti per il prototipo:
+* 1 [Lolin NodeMCU V3](https://www.katstores.com/sites/default/files/product-datasheets/2018-08/NodeMcu%20LOLOIN%20V3%20Datasheet.pdf)
+* 3 [CZN-15E](http://www.datasheetbank.com/datasheet-download/883231/1/ETC1/CZN-15E)
+* 1 [Mini Buzzer AL-60SP05](https://www.ekulit.com/transducer-with-controller/al-60sp05/#tabs1-spezifikationen)
+* 1 [ServoMotor 360° Kookye](https://kookye.com/2016/02/01/kookye-360-degree-unlimited-rotation-micro-servo-motor-for-telecar-robot-helicopter)
+
+Frameworks e piattaforme utilizzate:
+* [Flutter](https://flutter.dev)
+* [Arduino IDE](https://www.arduino.cc)
+* [XAMPP](https://www.apachefriends.org)
 
 
 
