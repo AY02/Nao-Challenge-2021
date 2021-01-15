@@ -7,7 +7,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<br />
+<br/>
 <p align="center">
   <a href="https://www.naochallenge.it/en/home-english">
     <img src="images/logo-nao-challenge-2021.jpg" alt="Logo" width="300" height="100">
@@ -19,10 +19,10 @@
   <h3 align="center">PROGETTO NAO CHALLENGE 2021</h3>
 
   <p align="center">
-    <br />
+    <br/>
     <a href="https://github.com/AY02/Nao-Challenge-2021"><strong>Export documentation »</strong></a>
-    <br />
-    <br />
+    <br/>
+    <br/>
     <a href="https://github.com/AY02/Nao-Challenge-2021">View Demo</a>
     ·
     <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Report Bug</a>
@@ -63,16 +63,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+La Nao Challenge è un contest didattico dedicato agli studenti delle scuole secondarie di secondo grado con l’obiettivo di aumentare la conoscenza dei giovani nell’impiego della robotica umanoide attraverso lo sviluppo di software e applicazioni per divulgare le potenzialità sociali della robotica.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Fasi di Nao:
+* Fase I: Preselezione e brand identity della squadra
+* Fase II: Semifinali
+  * Prova 1: Questo è il nostro team
+  * Prova 2: Nao, puoi aiutarmi a?
+  * Prova 3: X-Nao
+* Fase III: Finale
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+[Scopri di più](https://www.naochallenge.it/wp-content/uploads/2020/10/NAOch_it.pdf) sul progetto.
 
 ### Built With
 
