@@ -17,14 +17,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/AY02/Nao-Challenge-2021"><strong>Esplora la documentazione »</strong></a>
+    <a href="https://github.com/AY02/Nao-Challenge-2021"><strong>Export documentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AY02/Nao-Challenge-2021">Vedi Demo</a>
+    <a href="https://github.com/AY02/Nao-Challenge-2021">View Demo</a>
     ·
-    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Reporta Bug</a>
+    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Chiedi dubbi</a>
+    <a href="https://github.com/AY02/Nao-Challenge-2021/issues">Report Issues</a>
   </p>
 </p>
 
