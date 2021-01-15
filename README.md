@@ -188,7 +188,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [contributors-url]: https://github.com/AY02/Nao-Challenge-2021/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AY02/Nao-Challenge-2021.svg?style=for-the-badge
 [forks-url]: https://github.com/AY02/Nao-Challenge-2021/network/members
-[stars-shield]: https://img.shields.io/github/stars/AY02/Nao-Challenge-2021svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/AY02/Nao-Challenge-2021.svg?style=for-the-badge
 [stars-url]: https://github.com/AY02/Nao-Challenge-2021/stargazers
 [issues-shield]: https://img.shields.io/github/issues/AY02/Nao-Challenge-2021.svg?style=for-the-badge
 [issues-url]: https://github.com/AY02/Nao-Challenge-2021/issues
