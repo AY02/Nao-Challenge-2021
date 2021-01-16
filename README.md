@@ -138,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 ## Roadmap
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/AY02/Nao-Challenge-2021/issues) for a list of proposed features (and known issues).
 
 
 ## Contributing
@@ -156,9 +156,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 ## Contact
-Alessio Yang - [Linkedin](https://linkedin.com/in/alessio-yang-814b59201) - [Send Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ynglss02p17d403g@veronatrento.it&tf=1)
-
-Project Link: [Github URL](https://github.com/AY02/Nao-Challenge-2021)
+Alessio Yang:
+* [Linkedin](https://linkedin.com/in/alessio-yang-814b59201)
+* [Send Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ynglss02p17d403g@veronatrento.it&tf=1)
+* [GitHub](https://github.com/AY02)
 
 
 ## Acknowledgements
