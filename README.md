@@ -36,8 +36,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#setup">Setup</a></li>
+        <li><a href="#implementation">Implementation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -79,7 +79,7 @@ Frameworks e piattaforme utilizzate:
 * [Flutter](https://flutter.dev)
 * [Arduino IDE](https://www.arduino.cc)
 * [XAMPP](https://www.apachefriends.org)
-
+* [Python3](https://www.python.org)
 
 ## Getting Started
 **(QUESTO CIRCUITO E' ANCORA UN PROTOTIPO)**<br />
@@ -89,25 +89,43 @@ Montaggio                            |Circuito                  |Schema PCB
 ![](images/prototipo-montaggio.jpg)|![](images/prototipo-circuito.jpg)|![](images/prototipo-pcb.jpg)
 
 
-### Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Setup
+<details open="open">
+  <summary>Configurazione Arduino IDE:</summary>
+  <p>
+    
+  * Aggiungere le librerie dell'esp8266
+    ![](images/arduino-ide-setup-esp-json.png)
+  </p>
+  <p>
+    
+  * Installare il componente
+    ![](images/arduino-ide-setup-esp-library.png)
+  </p>
+  <p>
+  
+  * Installare la libreria di MQTT
+    ![](images/arduino-ide-setup-mqtt.png)
+  </p>
+</details>
 
-
-### Installation
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+Configurazione Python 3:
+* Installare la libreria MQTT
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   pip3 install paho-mqtt
    ```
-3. Install NPM packages
+   
+ 
+### Implementation
+1. Clona la repo
+   ```sh
+   git clone https://github.com/AY02/Nao-Challenge-2021.git
+   ```
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
